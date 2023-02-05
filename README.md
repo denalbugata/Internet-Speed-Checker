@@ -31,7 +31,7 @@ st = speedtest.Speedtest()
 ```python
 st.get_best_server()
 ```
-<b>Step 4: Step 4: Test the download speed.</b>
+<b>Step 4: Test the download speed.</b>
 
 ```python
 download_speed = st.download()
